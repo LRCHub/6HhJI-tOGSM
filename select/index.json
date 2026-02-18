@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "VIBRATION",
+  "base_artist": "tofubeats",
+  "createdAt": "2026-02-18T14:30:40.855027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Love Vibration",
+      "artist": "Ann Peebles",
+      "has_synced": true,
+      "path": "select/01_A_Love_Vibration_Ann_Peebles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Love Vibration",
+      "artist": "Ann Peebles",
+      "has_synced": false,
+      "path": "select/02_A_Love_Vibration_Ann_Peebles.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Positive Vibration",
+      "artist": "Black Box",
+      "has_synced": false,
+      "path": "select/03_A_Positive_Vibration_Black_Box.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Positive Vibration",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/04_Positive_Vibration_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Putting Out The Vibration And Hoping It Comes Home",
+      "artist": "Richie Havens",
+      "has_synced": false,
+      "path": "select/05_Putting_Out_The_Vibration_And_Hoping_It_Comes_Home_Richie_Havens.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Putting Out the Vibration, and Hoping It Comes Home",
+      "artist": "Richie Havens",
+      "has_synced": false,
+      "path": "select/06_Putting_Out_the_Vibration,_and_Hoping_It_Comes_Home_Richie_Havens.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Raise Vibration",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/07_Raise_Vibration_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Vibration",
+      "artist": "Josh Rouse",
+      "has_synced": true,
+      "path": "select/08_Love_Vibration_Josh_Rouse.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Positive Vibration",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/09_Positive_Vibration_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Strong Vibration",
+      "artist": "Universe",
+      "has_synced": false,
+      "path": "select/10_Strong_Vibration_Universe.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Positive Vibration",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/11_Positive_Vibration_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sound Is Vibration",
+      "artist": "Atmosphere",
+      "has_synced": false,
+      "path": "select/12_Sound_Is_Vibration_Atmosphere.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vibration (One More Time) (feat. AR/CO)",
+      "artist": "Sub Focus feat. AR/CO",
+      "has_synced": false,
+      "path": "select/13_Vibration_(One_More_Time)_(feat._AR_CO)_Sub_Focus_feat._AR_CO.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wrong Vibration",
+      "artist": "Balthazar",
+      "has_synced": true,
+      "path": "select/14_Wrong_Vibration_Balthazar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Positive Vibration",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/15_Positive_Vibration_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Luv Vibration",
+      "artist": "SPEED",
+      "has_synced": true,
+      "path": "select/16_Luv_Vibration_SPEED.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VIBRATION (feat. Kotetsu Shoichiro)",
+      "artist": "tofubeats",
+      "has_synced": false,
+      "path": "select/pl_01_VIBRATION_(feat._Kotetsu_Shoichiro)_tofubeats.txt"
+    }
+  ]
+}
